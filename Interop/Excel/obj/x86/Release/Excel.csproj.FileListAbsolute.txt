@@ -1,2 +1,9 @@
 D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.exe
 D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\obj\x86\Release\Excel.exe
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Microsoft.Vbe.Interop.dll
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Office.dll
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\stdole.dll
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Office.xml
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\obj\x86\Release\Excel.csprojResolveAssemblyReference.cache
