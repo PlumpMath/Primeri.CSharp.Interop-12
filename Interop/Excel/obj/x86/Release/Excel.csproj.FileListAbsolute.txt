@@ -1,0 +1,2 @@
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\bin\Release\Excel.exe
+D:\SoftUni\Aula\primeri.csharp.interop\Interop\Excel\obj\x86\Release\Excel.exe
